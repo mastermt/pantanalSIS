@@ -2,13 +2,12 @@
 Student Information System for open courses
 
 
-freescholl
 
 ## Tecnologia
 
 - Python
 - Django
-
+- PostgreSQL
 
 ### Instalar o virtualenv
 
@@ -28,4 +27,4 @@ pip install -e .
 ```
 
 ## docker
-docker-compose -f school.yml up
+```docker-compose -f school.yml up```
